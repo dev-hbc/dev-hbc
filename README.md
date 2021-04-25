@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
+- 💬 [My resume](https://dev-hbc.github.io/react-resume)
 -->
+
+- 🔭 I’m currently working as a Frontend Developer.
+- ⚡ I'm currently working on React Native, React, WechatMini Program with Taro projects.
+- 🌱 I’m currently learning building own RN components, visualizaiton.
+- 💬 [My personal blog](https://dev-hbc.github.io/blog-vue-press-dev-hbc)
