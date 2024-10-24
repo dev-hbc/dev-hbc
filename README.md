@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 - ⚡ I'm currently working on `React Native`, `React`, `WechatMini Program with Taro` projects.
 - 🌱 I’m currently learning building own RN components, visualizaiton, Next.js.
 - 💬 [My personal blog](https://dev-hbc.github.io/blog-vue-press-dev-hbc)
-- 💬 [My resume (not updated yet)](https://dev-hbc.github.io/react-resume)
